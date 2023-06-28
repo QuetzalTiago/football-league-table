@@ -1,0 +1,22 @@
+.table-header {
+  --bs-table-bg: #e4edf2;
+  font-size: 12px;
+}
+
+.table-even-row {
+  --bs-table-bg: #f6f7f7;
+}
+
+.table-row {
+  height: 70px;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.table-row strong {
+  font-size: 16px;
+}
+
+.custom-table {
+  color: #4b5c68;
+}

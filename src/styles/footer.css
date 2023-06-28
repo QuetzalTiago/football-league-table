@@ -1,0 +1,12 @@
+.custom-footer {
+  height: 40px;
+  background-color: #f6f7f7;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  color: #4b5c68;
+}
+
+.api-version {
+  margin-right: 40px;
+}
